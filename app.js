@@ -14,7 +14,7 @@ const projects = [
     title: "POS-System",
     description:
     "SK Shopping is an e-commerce website which is a grocery store website offering all types of products from food to cosmetics to daily necessities.",
-    image: "E:/my All Project/My-Portfolio/img/POS.png",
+    image: "https://i.postimg.cc/CKWM8fr9/POS.png",
     tools: "html, Tailwind css, js, React, Vite",
     liveLink: "https://pos-system-582d.vercel.app/",
     githubLink: "https://github.com/wafid19/POS-System",
@@ -23,7 +23,7 @@ const projects = [
     title: "SKShopping - It is a E-Commerce Website",
     description:
       "SK Shopping is an e-commerce website which is a grocery store website offering all types of products from food to cosmetics to daily necessities.",
-    image: "E:/my All Project/My-Portfolio/img/SKShopping2.png",
+    image: "https://i.postimg.cc/ZRpbxK1n/SKShopping2.png",
     tools: "html, Tailwind Css, js, React, Vite",
     liveLink: "https://skshopping.netlify.app/",
     githubLink: "https://github.com/wafid19/SK-Shopping",
@@ -32,7 +32,7 @@ const projects = [
     title: "SK-Shopping Dashbord",
     description:
       "SK Shopping is an e-commerce website which is a grocery store website offering all types of products from food to cosmetics to daily necessities.",
-    image: "E:/my All Project/My-Portfolio/img/Dashbord.png",
+    image: "https://i.postimg.cc/DzWymc6q/Dashbord.png",
     tools: "html, css, Tailwind Css,  js, React, Vite",
     liveLink: "https://sw-dashbord.netlify.app/",
     githubLink: "https://github.com/wafid19/SW_Dashbord",
