@@ -11,31 +11,31 @@ const content = document.querySelector(".content");
 // Projects
 const projects = [
   {
-    title: "PF-Bank - An online bank application",
+    title: "POS-System",
     description:
-      "Spectra Bank is an online bank that helps you save with the power of technology! With our application, you can easily deposit checks, transfer money, and send and receive payments. All without any hassle. What's more: we've made sure the experience of using Spectra Bank is as seamless as possible. With a modern UI and UX, it's not hard to see why many people are switching their banking to Spectra Bank!",
-    image: "https://pbs.twimg.com/media/FeSw4W6VIAEDuOg?format=jpg&name=large",
-    tools: "html, css, js, parcel",
-    liveLink: "https://wafid19.github.io/PF-BANK/",
-    githubLink: "https://github.com/wafid19/PF-BANK",
+    "SK Shopping is an e-commerce website which is a grocery store website offering all types of products from food to cosmetics to daily necessities.",
+    image: "E:/my All Project/My-Portfolio/img/POS.png",
+    tools: "html, Tailwind css, js, React, Vite",
+    liveLink: "https://pos-system-582d.vercel.app/",
+    githubLink: "https://github.com/wafid19/POS-System",
   },
   {
-    title: "Tera Guard - An anti-virus website",
+    title: "SKShopping - It is a E-Commerce Website",
     description:
-      "A mix of pure simplicity and functional elegance, Tera Guard is a web-based security solution that provides protection against internet threats, malware and cyber-attacks. With our robust system, you can be confident that your data and network are safe from hackers and malicious intent. Enjoy the peace of mind knowing your business is protected with our 24/7 customer support team.",
-    image: "https://pbs.twimg.com/media/FeSw8ekVEAEK797?format=jpg&name=large",
-    tools: "html, css, js, parcel",
-    liveLink: "https://wafid19.github.io/TERA-GUARD/",
-    githubLink: "https://github.com/wafid19/TERA-GUARD",
+      "SK Shopping is an e-commerce website which is a grocery store website offering all types of products from food to cosmetics to daily necessities.",
+    image: "E:/my All Project/My-Portfolio/img/SKShopping2.png",
+    tools: "html, Tailwind Css, js, React, Vite",
+    liveLink: "https://skshopping.netlify.app/",
+    githubLink: "https://github.com/wafid19/SK-Shopping",
   },
   {
-    title: "Map - Pro: A workout mapping application",
+    title: "SK-Shopping Dashbord",
     description:
-      "Fitness and health have never been more accessible. Map - Pro offers an interactive workout mapping app for athletes and fitness enthusiasts who love tracking their workouts and seeing the change in their fitness. Map - Pro is an easy-to-use fitness app that provides safe and effective workouts in the form of mapped routes from different levels of intensity, suitable for all levels of fitness. Take a post-workout walk or jog with your colleagues, go on a bike ride with the family on weekends or even try taking the stairs to work!",
-    image: "https://pbs.twimg.com/media/FeSw_tdVsAA4JxI?format=jpg&name=large",
-    tools: "html, css, js, leaflet.js, parcel",
-    liveLink: "https://map-pro-shohan.netlify.app",
-    githubLink: "https://github.com/shohan-pherones/map-pro",
+      "SK Shopping is an e-commerce website which is a grocery store website offering all types of products from food to cosmetics to daily necessities.",
+    image: "E:/my All Project/My-Portfolio/img/Dashbord.png",
+    tools: "html, css, Tailwind Css,  js, React, Vite",
+    liveLink: "https://sw-dashbord.netlify.app/",
+    githubLink: "https://github.com/wafid19/SW_Dashbord",
   },
 ];
 
@@ -161,7 +161,7 @@ class App {
       const html = `
         <div class="project">
           <div class="project-img">
-            <img
+            <img 
               src="${project.image}"
               alt="Photo of ${project.title}"
             />
